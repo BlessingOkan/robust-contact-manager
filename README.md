@@ -1,0 +1,22 @@
+# Robust Contact Manager
+
+This project is a Python-based **command-line contact manager** built for the “Robust Contact Manager” assignment.  
+It demonstrates exception handling, input validation, and automated testing using the `unittest` framework.
+
+---
+
+## 🧩 What the Program Does
+
+The program allows users to:
+- Add, find, and delete contacts stored in a dictionary  
+- Handle invalid inputs without crashing  
+- Raise a custom error when trying to add a duplicate contact  
+- Print user-friendly messages for each operation  
+
+---
+
+## ⚙️ How to Run the Program
+
+1. Open your terminal and navigate to the project folder:
+   ```bash
+   cd robust-contact-manager
