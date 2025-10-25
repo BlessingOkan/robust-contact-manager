@@ -19,4 +19,4 @@ The program allows users to:
 
 1. Open your terminal and navigate to the project folder:
    ```bash
-   cd robust-contact-manager
+   cd contact-manager
