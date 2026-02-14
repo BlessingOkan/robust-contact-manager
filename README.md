@@ -1,3 +1,6 @@
+## 🎥 Demo Video
+Watch the project walkthrough here:
+[ScreenPal Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
 # Robust Contact Manager
 
 This project is a Python-based **command-line contact manager** built for the “Robust Contact Manager” assignment.  
