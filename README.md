@@ -1,6 +1,6 @@
 ## 🎥 Demo Video
 Watch the project walkthrough here:
-[ScreenPal Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
+[ScreenPal Demo Video](https://go.screenpal.com/watch/cT60nZnbHPM)
 # Robust Contact Manager
 
 ## 🧠 Design Approach
